@@ -1,0 +1,18 @@
+# Build artifacts
+bin/
+obj/
+
+# User settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

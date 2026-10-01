@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClientStrategyWorkbench.Api/ClientStrategyWorkbench.Api.csproj" />
+  </Folder>
+</Solution>
