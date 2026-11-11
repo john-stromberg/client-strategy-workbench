@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [advisor-platform/projects/client-strategy-workbench](https://github.com/john-stromberg/advisor-platform/tree/main/projects/client-strategy-workbench).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Client Strategy Workbench
 
 Workflow-first advisor tool for household strategy design, IPS-guided recommendations, and Office-integrated client deliverables.
